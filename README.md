@@ -1,2 +1,1 @@
-# Projects
-Using Python programming, created simple Digital Clock
+I am Thote. Kiran Babu, 
